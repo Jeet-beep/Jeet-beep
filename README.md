@@ -2,8 +2,6 @@
 
 Welcome to my GitHub profile. I'm an aspiring Data Scientist on a journey to become proficient in computer vision, object detection, image segmentation, and deep learning. I'm dedicated to learning and applying these exciting technologies to solve real-world challenges.
 
-![Charanjeet Singh](https://ibb.co/Mc4p7CV)
-
 ## About Me
 
 - 🌱 I'm currently learning about computer vision and deep learning techniques.
