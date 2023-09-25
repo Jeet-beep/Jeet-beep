@@ -26,17 +26,13 @@ While I'm in the process of learning, here are some of the skills and technologi
 
 I'm currently working on projects to apply my learning. Here are some of my recent endeavors:
 
-1. [Pothole detection](Link to Project) - My experiments with object detection algorithms.
-2. [Retina segmentation](Link to Project) - Learning image segmentation techniques with practical challenges.
+1. [Pothole detection](https://github.com/Jeet-beep/Pothole_detection) - My experiments with object detection algorithms.
+2. [Retina segmentation](In the making) - Learning image segmentation techniques with practical challenges.
 
 
 ## GitHub Stats
 
 ![Charanjeet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=charanjeet-singh&show_icons=true&count_private=true)
-
-## GitHub Activity
-
-![Charanjeet's GitHub Activity](https://github-readme-stats.vercel.app/api/wakatime?username=charanjeet-singh)
 
 ## Let's Connect
 
