@@ -19,18 +19,9 @@ While I'm in the process of learning, here are some of the skills and technologi
 - 🤖 Object Detection: Faster R-CNN, YOLO, SSD
 - 📊 Image Segmentation: U-Net, Mask R-CNN
 - 🌐 Web Scraping: Beautiful Soup, Scrapy
-
-## Projects
-
-I'm currently working on projects to apply my learning. Here are some of my recent endeavors:
-
-1. [Pothole detection](https://github.com/Jeet-beep/Pothole_detection) - My experiments with object detection algorithms.
-2. [Retina segmentation](In the making) - Learning image segmentation techniques with practical challenges.
+- 🤖 Generative AI: Fine tuning, Semantic Search
 
 
-## GitHub Stats
-
-![Charanjeet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=charanjeet-singh&show_icons=true&count_private=true)
 
 ## Let's Connect
 
