@@ -4,21 +4,17 @@ Welcome to my GitHub profile. I'm an aspiring Data Scientist on a journey to bec
 
 ## About Me
 
-- 🌱 I'm currently learning about computer vision and deep learning techniques.
+- 🌱 I'm currently learning about generative AI and LLMs.
 - 🧠 I'm passionate about understanding and working with visual data.
-- 🍁 I'm good at machine learning, data analysis and visualisation
+- 🍁 I'm good at machine learning, data analysis, deep learning, computer vision and visualisation
 - 📚 I enjoy taking online courses and studying research papers to expand my knowledge.
-- 🚀 My goal is to become proficient in computer vision and contribute to exciting AI projects.
+- 🚀 My goal is to become proficient in data science and contribute to exciting AI projects.
 
 ## Skills and Technologies
 
 While I'm in the process of learning, here are some of the skills and technologies I'm exploring:
 
 - 🖥️ Deep Learning Frameworks: TensorFlow, PyTorch
-- 📸 Computer Vision Libraries: OpenCV
-- 🤖 Object Detection: Faster R-CNN, YOLO, SSD
-- 📊 Image Segmentation: U-Net, Mask R-CNN
-- 🌐 Web Scraping: Beautiful Soup, Scrapy
 - 🤖 Generative AI: Fine tuning, Semantic Search
 
 
